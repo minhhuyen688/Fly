@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #87CEEB; /* bầu trời xanh */
+  background-color: #333;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,5 +8,5 @@ body {
 }
 
 canvas {
-  border: 2px solid #333;
+  border: 2px solid #000;
 }
